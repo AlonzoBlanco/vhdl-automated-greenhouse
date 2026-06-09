@@ -1,4 +1,4 @@
-# FPGA Smart Roof Controller 🏠🌦️
+# FPGA Smart Roof Controller
 
 A fully automated, weather-responsive retractable roof system designed in **VHDL** and deployed on an **Intel MAX 10 DE10-Lite FPGA**. 
 
